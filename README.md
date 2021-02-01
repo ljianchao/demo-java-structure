@@ -1,1 +1,1 @@
-# demo-java-structure
+# java-structure-demo
